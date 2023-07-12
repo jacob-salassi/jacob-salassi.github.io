@@ -1,5 +1,4 @@
-# Jacob Salassi
-## I solve problems.
+# Jacob Salassi: I solve problems.
 
 Patents
 * [Managing execution of a user defined function](https://patents.justia.com/patent/11295009)
