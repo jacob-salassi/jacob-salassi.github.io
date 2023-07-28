@@ -2,14 +2,14 @@
 title = "Patents, podcasts, publications, and software"
 #date = "2023-07-19T20:12:18-07:00"
 author = "Jacob"
-cover = ""
+#cover = ""
 #tags = ["", ""]
 #keywords = ["", ""]
 #description = ""
 showFullContent = true
 readingTime = false
 hideComments = false
-color = "" #color from the theme settings
+color = "orange" #color from the theme settings
 +++
 
 ## Patents

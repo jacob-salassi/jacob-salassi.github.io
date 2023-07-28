@@ -2,4 +2,5 @@
 framed = true
 +++
 
-A place to organize some of my professional work and thinking.
+![Image alt](/cover.jpg)
+*Near the beach.*
