@@ -2,5 +2,5 @@
 framed = true
 +++
 
-![Image alt](/cover.jpg)
+![Image alt](posts/cover.jpg)
 *Near the beach.*
