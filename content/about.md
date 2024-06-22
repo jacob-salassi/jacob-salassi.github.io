@@ -1,7 +1,7 @@
 +++
 title = "Patents, podcasts, publications, and software"
 #date = "2023-07-19T20:12:18-07:00"
-author = "Jacob"
+author = "Jacob Salassi"
 #cover = ""
 #tags = ["", ""]
 #keywords = ["", ""]
