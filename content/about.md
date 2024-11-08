@@ -16,6 +16,8 @@ color = "orange" #color from the theme settings
 * [Managing execution of a user defined function](https://patents.justia.com/patent/11295009)
 
 ## Podcasts & Presentations
+* [Presentation: Locomocosec 2024 - Appsec Sucks for Software Engineers: Appsec is a data problem](https://slideslive.com/39021675/appsec-is-a-structured-data-problem-why-shifting-left-doesnt-work-asks-too-much-from-everyone)
+* [Presentation: Elephant in Appsec 2024 - Appsec Sucks for Software Engineers: Appsec is a data problem](https://app.getcontrast.io/watch/the-elephant-in-appsec-track-1)
 * [Presentation: BSidesSF2024 Panel - Titans of Scale: Strategies to Scale Security in Expanding Organizations](https://bsidessf2024.sched.com/event/1abEM)
 * [Podcast: The Elephant In Appsec - The art and science of product security](https://www.youtube.com/watch?v=j8J9q5-npIM)
 * [Podcast: EP 42 — Snowflake’s Jacob Salassi on the Science of Product Security](https://tromzo.com/podcasts/snowflake-s-jacob-salassi-on-the-science-of-product-security)
