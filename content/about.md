@@ -1,6 +1,5 @@
 +++
-title = "Patents, podcasts, publications, and software"
-#date = "2023-07-19T20:12:18-07:00"
+title = "Patents, podcasts, presentations and software"
 #author = ""
 hidecomments = true
 +++

@@ -1,5 +1,4 @@
 +++
-#title = "About me"
 hidecomments = true
 framed = true
 +++
@@ -15,7 +14,7 @@ In past roles:
 * I was the first person at **Citrix** to ever transition from support to software engineering. 
 * I taught myself binary exploitation, robotics, and software engineering while working as a network engineer at **Radware**.
 
-I am **@jacob-salassi** on [GitHub](https://www.github.com/jacob-salassi), contributing to [DuneGroup](https://github.com/DuneGroup) and [SecMerc](https://github.com/secmerc). You can connect with me on [LinkedIn](https://www.linkedin.com/in/jacobsalassi/).
+I am **@jacob-salassi** on [GitHub](https://www.github.com/jacob-salassi), contributing to [DuneGroup](https://github.com/DuneGroup) and [SecMerc](https://github.com/secmerc). You can connect with me on [LinkedIn](https://www.linkedin.com/in/jacobsalassi/). See things I have [created, written & spoken about](/about).
 
 ![Seals on the beach](posts/cover.jpg)
 *Near the beach.*

@@ -72,20 +72,20 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
+        identifier = "home"
         name = "About"
         url = "/"
         weight = 1
 
     [[languages.en.menu.main]]
-        identifier = "publications"
-        name = "Patents & Publications"
-        url = "/posts/published_work"
+        identifier = "about"
+        name = "Publications"
+        url = "/about"
         weight = 2
 
-    [[languages.en.menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/posts"
-        weight = 3
+#    [[languages.en.menu.main]]
+#        identifier = "posts"
+#        name = "Posts"
+#        url = "/posts"
+#        weight = 3
 
