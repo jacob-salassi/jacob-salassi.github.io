@@ -53,7 +53,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "I solve problems"
-    owner = "Jacob"
+    owner = "Jacob Salassi"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -67,7 +67,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "My name is Jacob. I solve problems."
+      logoText = "My name is Jacob Salassi. I solve problems."
       logoHomeLink = "/"
 
     [languages.en.menu]
