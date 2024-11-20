@@ -6,10 +6,7 @@ paginate = 5
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  # contentTypeName = "posts"
-
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3
@@ -56,7 +53,6 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "I solve problems"
-    subtitle = ""
     owner = "Jacob"
     keywords = ""
     copyright = ""
@@ -78,11 +74,18 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/"
         weight = 1
+
+    [[languages.en.menu.main]]
+        identifier = "publications"
+        name = "Patents & Publications"
+        url = "/posts/published_work"
+        weight = 2
 
     [[languages.en.menu.main]]
         identifier = "posts"
         name = "Posts"
         url = "/posts"
-        weight = 2
+        weight = 3
+
