@@ -8,6 +8,12 @@ hidecomments = true
 * [Managing execution of a user defined function](https://patents.justia.com/patent/11295009)
 
 ## Podcasts & Presentations
+* [Podcast: The Security Champions Podcast - Developer Empathy: A Thoughtful Approach to Product Security](https://www.youtube.com/watch?v=k-j_MN7ueV4)
+
+* [Presentation: BSidesSF2025 - Into The Dragon's Den](https://www.youtube.com/watch?v=hrkeNbuA2hg)
+
+* [Presentation: BSidesSF2025 Panel - AppSec as Glue: Building Partnerships to Scale Security](https://www.youtube.com/watch?v=kgj74xtHe7U)
+
 * [Presentation: Locomocosec 2024 - Appsec Sucks for Software Engineers: Appsec is a data problem](https://slideslive.com/39021675/appsec-is-a-structured-data-problem-why-shifting-left-doesnt-work-asks-too-much-from-everyone)
 
 * [Presentation: Elephant in Appsec 2024 - Appsec Sucks for Software Engineers: Appsec is a data problem](https://app.getcontrast.io/watch/the-elephant-in-appsec-track-1)
@@ -31,7 +37,13 @@ hidecomments = true
 * [Presentation: Cloud Native Security Summit 2021 - A Cloud-Native Approach to Threat Detection](https://www.brighttalk.com/webcast/18402/483304)
 
 ## Publications
+* [OK, but do you have custom models?](https://www.linkedin.com/pulse/ok-do-you-have-custom-models-jacob-salassi-wozsc/)
+
 * [Appsec Development: Keeping it all together at scale](https://semgrep.dev/blog/2021/appsec-development-keeping-it-all-together-at-scale#where-we’re-headed)
+
+* [Snowflake Service Account Security, Part 1](https://www.snowflake.com/en/blog/snowflake-service-account-securitypart-1/)
+
+* [Snowflake Service Account Security, Part 2](https://www.snowflake.com/en/blog/snowflake-service-account-security-part-2/)
 
 ## Software
 * [Materialize threats](https://github.com/secmerc/materialize-threats/)
